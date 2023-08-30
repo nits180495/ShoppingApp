@@ -1,2 +1,2 @@
 # ShoppingApp
-This is simple prottotype with core mechanics.
+This is simple prototype with core mechanics.
